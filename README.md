@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @luuhaihoavnaaa
-- 👀 I’m interested in cplusplus
-- 🌱 I’m currently learning cplusplus
-- 💞️ I’m looking to collaborate on cplusplus
-- 📫 How to reach me cplusplus
-- 😄 Pronouns: cplusplus
-- ⚡ Fun fact: cplusplus
+- 👀 I’m interested in cplusplus, godot, web and python
+- 🌱 I’m currently learning cplusplus, godot, web and python
+- 💞️ I’m looking to collaborate on cplusplus, godot, web and python
+- 📫 How to reach me cplusplus, godot, web and python
+- 😄 Pronouns: cplusplus, godot, web and python
+- ⚡ Fun fact: cplusplus, godot, web and python
 
 
 I LIKE cplusplus
